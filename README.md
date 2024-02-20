@@ -1,5 +1,5 @@
 # Impartial Adversarial Distillation
-This file provides the commands for reproducing results in this work.
+This repo provides the commands for reproducing results in our work.
 ## Pretrain the Teacher Model
 ### Pretrain on Imbalanced Dataset
 ```
